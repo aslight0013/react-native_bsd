@@ -1,4 +1,4 @@
-<!-- Title -->
+#<!-- Title -->
 
 <p align="center">
   <a href="https://github.com/expo/examples">
